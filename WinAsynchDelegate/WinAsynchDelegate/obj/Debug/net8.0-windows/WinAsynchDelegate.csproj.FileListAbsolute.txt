@@ -1,0 +1,16 @@
+E:\source\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.exe
+E:\source\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.deps.json
+E:\source\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.runtimeconfig.json
+E:\source\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.dll
+E:\source\WinAsynchDelegate\WinAsynchDelegate\bin\Debug\net8.0-windows\WinAsynchDelegate.pdb
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.Form1.resources
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.csproj.GenerateResource.cache
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.AssemblyInfoInputs.cache
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.AssemblyInfo.cs
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.csproj.CoreCompileInputs.cache
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.dll
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\refint\WinAsynchDelegate.dll
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.pdb
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\WinAsynchDelegate.genruntimeconfig.cache
+E:\source\WinAsynchDelegate\WinAsynchDelegate\obj\Debug\net8.0-windows\ref\WinAsynchDelegate.dll

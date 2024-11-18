@@ -1,0 +1,16 @@
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.Form1.resources
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.csproj.GenerateResource.cache
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.AssemblyInfoInputs.cache
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.AssemblyInfo.cs
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.csproj.CoreCompileInputs.cache
+E:\source\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.exe
+E:\source\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.deps.json
+E:\source\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.runtimeconfig.json
+E:\source\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.dll
+E:\source\WinAsynchMethod\WinAsynchMethod\bin\Debug\net8.0-windows\WinAsynchMethod.pdb
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.dll
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\refint\WinAsynchMethod.dll
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.pdb
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\WinAsynchMethod.genruntimeconfig.cache
+E:\source\WinAsynchMethod\WinAsynchMethod\obj\Debug\net8.0-windows\ref\WinAsynchMethod.dll
